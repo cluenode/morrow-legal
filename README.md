@@ -1,6 +1,6 @@
 # Morrow privacy policy
 
-Public information for Morrow, the Android routine, record and reflection app distributed through Google Play as `com.hourveil.app`.
+Public information for Morrow, the routine, record and reflection app for Android, iPhone and Mac. The Android Google Play package is `com.hourveil.app`.
 
 - `index.html` contains the Korean, English and Japanese privacy policy. It is a static page with no analytics, cookies, scripts, account system or external font request.
 - `favicon.svg` is Morrow's vector identity, exported from the same source as the app icon.
